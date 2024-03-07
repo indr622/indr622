@@ -1,4 +1,3 @@
-# Hi, I'm  (Indra Basuki) 
 
 <br>
 <h5 align="center"><em>FULLSTACK DEVELOPER </em></h5>
